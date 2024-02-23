@@ -1,3 +1,3 @@
 # Twitter Clone
 
-## React Site
+A react web application
